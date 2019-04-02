@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\TelephoneDiary\TelephoneDiary\bin\Debug\TelephoneDiary.exe.config
+C:\Users\student\source\repos\TelephoneDiary\TelephoneDiary\bin\Debug\TelephoneDiary.exe
+C:\Users\student\source\repos\TelephoneDiary\TelephoneDiary\bin\Debug\TelephoneDiary.pdb
+C:\Users\student\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.csprojAssemblyReference.cache
+C:\Users\student\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.Properties.Resources.resources
+C:\Users\student\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.csproj.GenerateResource.cache
+C:\Users\student\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.exe
+C:\Users\student\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.pdb
+C:\Users\student\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.Phone.resources
