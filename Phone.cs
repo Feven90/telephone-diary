@@ -13,7 +13,7 @@ namespace TelephoneDiary
 {
     public partial class Phone : Form
     {
-        SqlConnection con = new SqlConnection("Data Source =.\\sqlexpress2012; Integrated Security = True");
+        SqlConnection con = new SqlConnection("Data Source =.\\sqlexpress2012; Integrated Security = True"); // the database name is (./sqlexpress2012) because of the back slash at the beginning it gives error so just added another back slash to escap that
         public Phone()
         {
             InitializeComponent();
